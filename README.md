@@ -1,4 +1,4 @@
-# Retail Profit Leakage & Operational Analytics
+# Retail Profit Leakage Analysis
 - Tools: PostgreSQL · SQL · Power BI
 - Project type: Independent data analytics portfolio project
 - Analytical approach: Descriptive → Diagnostic → Prescriptive
